@@ -17,17 +17,13 @@ def create_calander_file(df):
     for index, row in df.iterrows():
         event = icalendar.Event()
         event.add("summary", row["title"] if pd.notna(row["title"]) else "No Title")
-
         event.add("dtstart", pd.to_datetime(row["date"]).date())
         event.add("dtend", pd.to_datetime(row["date"]).date() + pd.Timedelta(days=1))
-
         event.add(
             "location", row["location"] if pd.notna(row["location"]) else "No Location"
         )
         event.add("url", row["url"] if pd.notna(row["url"]) else "No URL")
-
-        # Add UID using the URL
-        # uid = row["url"] if pd.notna(row["url"]) else f"event-{index}@aiterhofen.de"
+        event.add("transp", "TRANSPARENT")
         uid = f"{row['title']}-{row['date']}"
         event.add("uid", uid)
 

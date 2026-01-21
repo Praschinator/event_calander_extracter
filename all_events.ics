@@ -7,6 +7,7 @@ DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 UID:FFW Aiterhofen - Faschingsball-2026-01-17
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL: https://www.aiterhofen.de/veranstaltungen/ffw-aiterhofen-faschingsbal
  l-2/
 END:VEVENT
@@ -16,6 +17,7 @@ DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
 UID:FFW Amselfing - Feuerwehrball-2026-01-24
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-amselfing-feuerwehrball-
  3/
 END:VEVENT
@@ -25,6 +27,7 @@ DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260125
 UID:Neujahrsempfang der Pfarrei-2026-01-24
 LOCATION:Pfarrheim Aiterhofen
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/neujahrsempfang-der-pfarrei/
 END:VEVENT
 BEGIN:VEVENT
@@ -33,6 +36,7 @@ DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 UID:Bauernhilfsverein - Bauernjahrtag intern-2026-01-31
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/bauernhilfsverein-bauernjahr
  tag-intern/
 END:VEVENT
@@ -42,6 +46,7 @@ DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 UID:Skifahrt - Eventteam Aiterhofen-2026-01-31
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/skifahrt-eventteam-aiterhofe
  n/
 END:VEVENT
@@ -51,6 +56,7 @@ DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
 UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-01
 LOCATION:Feuerwehrgerätehaus Niederharthausen
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
  tung-kommunalwahl/
 END:VEVENT
@@ -60,6 +66,7 @@ DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-05
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
  tung-kommunalwahl-2/
 END:VEVENT
@@ -69,6 +76,7 @@ DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 UID:Eventteam - Dorffasching-2026-02-06
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-dorffasching/
 END:VEVENT
 BEGIN:VEVENT
@@ -77,6 +85,7 @@ DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 UID:Eventteam - Familienfasching-2026-02-08
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-familienfasching/
 END:VEVENT
 BEGIN:VEVENT
@@ -85,6 +94,7 @@ DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 UID:CSU Aiterhofen - politischer Frühschoppen zur Kommunalwahl-2026-02-08
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-politischer-f
  ruehschoppen-zur-kommunalwahl/
 END:VEVENT
@@ -94,6 +104,7 @@ DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-11
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
  tung-kommunalwahl-3/
 END:VEVENT
@@ -103,6 +114,7 @@ DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
 UID:Schützen Geltolfing - Kappenabend-2026-02-14
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/schuetzen-geltolfing-kappena
  bend/
 END:VEVENT
@@ -114,6 +126,7 @@ DTEND;VALUE=DATE:20260222
 UID:CSU Ortsverband Aiterhofen - Starkbierfest mit Klaus Holetschek\, Vors
  itzender CSU-Fraktion und Gstanzlsänger Andi Aichinger-2026-02-21
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-ortsverband-aiterhofen-s
  tarkbierfest-mit-klaus-holetschek-vorsitzender-csu-fraktion-und-gstanzlsae
  nger-andi-aichinger/
@@ -124,6 +137,7 @@ DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 UID:OGV Aiterhofen - Jahreshauptversammlung mit Neuwahl-2026-02-27
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ogv-aiterhofen-jahreshauptve
  rsammlung-mit-neuwahl/
 END:VEVENT
@@ -133,6 +147,7 @@ DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
 UID:Basarteam Aiterhofen - Frühjahr-Sommer- Basar-2026-03-07
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-fruehja
  hr-sommer-basar-2/
 END:VEVENT
@@ -142,6 +157,7 @@ DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
 UID:Fischereiverein - Jahreshauptversammlung intern-2026-03-07
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fischereiverein-jahreshauptv
  ersammlung-intern/
 END:VEVENT
@@ -151,6 +167,7 @@ DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
 UID:FFW Geltolfing – Jahreshauptversammlung-2026-03-28
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-geltolfing-jahreshauptve
  rsammlung-3/
 END:VEVENT
@@ -160,6 +177,7 @@ DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 UID:Landjugend - Lebendkickerturnier-2026-05-02
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/landjugend-lebendkickerturni
  er/
 END:VEVENT
@@ -171,6 +189,7 @@ DTEND;VALUE=DATE:20260621
 UID:FFW Geltolfing – Sonnwendfeier mit Festzeltbetrieb am Sportplatz Gel
  tolfing-2026-06-20
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-geltolfing-sonnwendfeier
  -mit-festzeltbetrieb-am-sportplatz-geltolfing/
 END:VEVENT
@@ -180,6 +199,7 @@ DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 UID:OGV Aiterhofen - Sommerfest-2026-07-04
 LOCATION:OGV Gelände
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ogv-aiterhofen-sommerfest-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -188,6 +208,7 @@ DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 UID:Sunset Party - FC Aiterhofen-2026-07-17
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/sunset-party-fc-aiterhofen/
 END:VEVENT
 BEGIN:VEVENT
@@ -196,6 +217,7 @@ DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 UID:FCA Gäubodenkleinfeld Cup - FC Aiterhofen-2026-07-18
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fca-gaeubodenkleinfeld-cup-f
  c-aiterhofen/
 END:VEVENT
@@ -205,6 +227,7 @@ DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 UID:Tennisfreunde Aiterhofen - 50 Jahr-Feier-2026-07-23
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/tennisfreunde-aiterhofen-50-
  jahr-feier/
 END:VEVENT
@@ -214,6 +237,7 @@ DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 UID:50 Jahre Tennisfreunde Aiterhofen-2026-07-24
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/50-jahre-tennisfreunde-aiter
  hofen-2/
 END:VEVENT
@@ -223,6 +247,7 @@ DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 UID:Tennisfreunde Aiterhofen - 50 Jahr-Feier-2026-07-24
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/tennisfreunde-aiterhofen-50-
  jahr-feier-2/
 END:VEVENT
@@ -232,6 +257,7 @@ DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 UID:Tennisfreunde Aiterhofen - 50 Jahr-Feier-2026-07-25
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/tennisfreunde-aiterhofen-50-
  jahr-feier-3/
 END:VEVENT
@@ -241,6 +267,7 @@ DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
 UID:Tennisfreunde Aiterhofen - 50 Jahr-Feier-2026-07-26
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/tennisfreunde-aiterhofen-50-
  jahr-feier-4/
 END:VEVENT
@@ -250,6 +277,7 @@ DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 UID:Fischereiverein - Fischerfest-2026-08-01
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fischereiverein-fischerfest/
 END:VEVENT
 BEGIN:VEVENT
@@ -258,6 +286,7 @@ DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 UID:FFW Amselfing - Grillfest-2026-08-29
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-amselfing-grillfest-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -266,6 +295,7 @@ DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 UID:Dormeisterschaft Eisstock - EC Ebra-2026-09-12
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/dormeisterschaft-eisstock-ec
  -ebra/
 END:VEVENT
@@ -275,6 +305,7 @@ DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 UID:Eventteam - Busfahrt Dorfauszeit-2026-09-19
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-busfahrt-dorfausze
  it/
 END:VEVENT
@@ -284,6 +315,7 @@ DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 UID:Eventteam - Busfahrt Dorfauszeit-2026-09-20
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-busfahrt-dorfausze
  it-2/
 END:VEVENT
@@ -293,6 +325,7 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 UID:FC Aiterhofen - Weinfest-2026-10-02
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-weinfest/
 END:VEVENT
 BEGIN:VEVENT
@@ -301,6 +334,7 @@ DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 UID:Basarteam Aiterhofen - Herbst-Winter-Basar-2026-10-10
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-herbst-
  winter-basar-3/
 END:VEVENT
@@ -310,6 +344,7 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 UID:OGV Aiterhofen - Adventszauber-2026-11-21
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ogv-aiterhofen-adventszauber
  -2/
 END:VEVENT
@@ -319,6 +354,7 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 UID:FC Aiterhofen - Weihnachtsfeier-2026-11-28
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-weihnachtsfeie
  r/
 END:VEVENT
@@ -328,6 +364,7 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 UID:FFW Amselfing - Weihnachtsfeier-2026-12-12
 LOCATION:No Location
+TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-amselfing-weihnachtsfeie
  r-3/
 END:VEVENT
