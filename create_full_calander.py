@@ -11,6 +11,9 @@ def load_df():
 
 def create_calander_file(df):
     c = icalendar.Calendar()
+    c.add('prodid', '-//Event Calendar Extractor//aiterhofen.de//')
+    c.add('version', '2.0')
+    
     for index, row in df.iterrows():
         event = icalendar.Event()
         event.add("summary", row["title"] if pd.notna(row["title"]) else "No Title")
@@ -30,6 +33,12 @@ def create_calander_file(df):
             "location", row["location"] if pd.notna(row["location"]) else "No Location"
         )
         event.add("url", row["url"] if pd.notna(row["url"]) else "No URL")
+        
+        # Add UID using the URL
+        # uid = row["url"] if pd.notna(row["url"]) else f"event-{index}@aiterhofen.de"
+        uid = f"{row['title']}-{row['date']}" 
+        event.add("uid", uid)
+        
         c.add_component(event)
 
     filepath = os.path.join(os.path.dirname(__file__), "all_events.ics")
