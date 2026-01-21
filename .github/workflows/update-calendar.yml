@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # run daily at 00:00
   workflow_dispatch: # manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-events:
     runs-on: ubuntu-latest
@@ -24,9 +27,6 @@ jobs:
       - name: Generate full calendar file
         run: uv run create_full_calander.py
       
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add events_aiterhofen.csv all_events.ics
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update calendar events - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+      - name: Commit 
+        uses: stefanzweifel/git-auto-commit-action@v7
+
