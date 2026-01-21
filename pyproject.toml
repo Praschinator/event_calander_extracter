@@ -1,0 +1,13 @@
+[project]
+name = "event-calander-extracter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "bs4>=0.0.2",
+    "datetime>=6.0",
+    "icalendar>=6.3.2",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+]

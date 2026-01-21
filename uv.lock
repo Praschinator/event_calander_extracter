@@ -1,0 +1,269 @@
+version = 1
+revision = 3
+requires-python = ">=3.14"
+
+[[package]]
+name = "beautifulsoup4"
+version = "4.14.3"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+dependencies = [
+    { name = "soupsieve" },
+    { name = "typing-extensions" },
+]
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/beautifulsoup4/4.14.3/beautifulsoup4-4.14.3.tar.gz", hash = "sha256:6292b1c5186d356bba669ef9f7f051757099565ad9ada5dd630bd9de5fa7fb86" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/beautifulsoup4/4.14.3/beautifulsoup4-4.14.3-py3-none-any.whl", hash = "sha256:0918bfe44902e6ad8d57732ba310582e98da931428d231a5ecb9e7c703a735bb" },
+]
+
+[[package]]
+name = "bs4"
+version = "0.0.2"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+dependencies = [
+    { name = "beautifulsoup4" },
+]
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/bs4/0.0.2/bs4-0.0.2.tar.gz", hash = "sha256:a48685c58f50fe127722417bae83fe6badf500d54b55f7e39ffe43b798653925" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/bs4/0.0.2/bs4-0.0.2-py2.py3-none-any.whl", hash = "sha256:abf8742c0805ef7f662dce4b51cca104cffe52b835238afc169142ab9b3fbccc" },
+]
+
+[[package]]
+name = "certifi"
+version = "2026.1.4"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/certifi/2026.1.4/certifi-2026.1.4.tar.gz", hash = "sha256:ac726dd470482006e014ad384921ed6438c457018f4b3d204aea4281258b2120" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/certifi/2026.1.4/certifi-2026.1.4-py3-none-any.whl", hash = "sha256:9943707519e4add1115f44c2bc244f782c0249876bf51b6599fee1ffbedd685c" },
+]
+
+[[package]]
+name = "charset-normalizer"
+version = "3.4.4"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4.tar.gz", hash = "sha256:94537985111c35f28720e43603b8e7b43a6ecfb2ce1d3058bbe955b73404e21a" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-macosx_10_13_universal2.whl", hash = "sha256:da3326d9e65ef63a817ecbcc0df6e94463713b754fe293eaa03da99befb9a5bd" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:8af65f14dc14a79b924524b1e7fffe304517b2bff5a58bf64f30b98bbc5079eb" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-manylinux2014_armv7l.manylinux_2_17_armv7l.manylinux_2_31_armv7l.whl", hash = "sha256:74664978bb272435107de04e36db5a9735e78232b85b77d45cfb38f758efd33e" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-manylinux2014_ppc64le.manylinux_2_17_ppc64le.manylinux_2_28_ppc64le.whl", hash = "sha256:752944c7ffbfdd10c074dc58ec2d5a8a4cd9493b314d367c14d24c17684ddd14" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-manylinux2014_s390x.manylinux_2_17_s390x.manylinux_2_28_s390x.whl", hash = "sha256:d1f13550535ad8cff21b8d757a3257963e951d96e20ec82ab44bc64aeb62a191" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:ecaae4149d99b1c9e7b88bb03e3221956f68fd6d50be2ef061b2381b61d20838" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-manylinux_2_31_riscv64.manylinux_2_39_riscv64.whl", hash = "sha256:cb6254dc36b47a990e59e1068afacdcd02958bdcce30bb50cc1700a8b9d624a6" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-musllinux_1_2_aarch64.whl", hash = "sha256:c8ae8a0f02f57a6e61203a31428fa1d677cbe50c93622b4149d5c0f319c1d19e" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-musllinux_1_2_armv7l.whl", hash = "sha256:47cc91b2f4dd2833fddaedd2893006b0106129d4b94fdb6af1f4ce5a9965577c" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-musllinux_1_2_ppc64le.whl", hash = "sha256:82004af6c302b5d3ab2cfc4cc5f29db16123b1a8417f2e25f9066f91d4411090" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-musllinux_1_2_riscv64.whl", hash = "sha256:2b7d8f6c26245217bd2ad053761201e9f9680f8ce52f0fcd8d0755aeae5b2152" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-musllinux_1_2_s390x.whl", hash = "sha256:799a7a5e4fb2d5898c60b640fd4981d6a25f1c11790935a44ce38c54e985f828" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-musllinux_1_2_x86_64.whl", hash = "sha256:99ae2cffebb06e6c22bdc25801d7b30f503cc87dbd283479e7b606f70aff57ec" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-win32.whl", hash = "sha256:f9d332f8c2a2fcbffe1378594431458ddbef721c1769d78e2cbc06280d8155f9" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-win_amd64.whl", hash = "sha256:8a6562c3700cce886c5be75ade4a5db4214fda19fede41d9792d100288d8f94c" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-cp314-cp314-win_arm64.whl", hash = "sha256:de00632ca48df9daf77a2c65a484531649261ec9f25489917f09e455cb09ddb2" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/charset-normalizer/3.4.4/charset_normalizer-3.4.4-py3-none-any.whl", hash = "sha256:7a32c560861a02ff789ad905a2fe94e3f840803362c84fecf1851cb4cf3dc37f" },
+]
+
+[[package]]
+name = "datetime"
+version = "6.0"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+dependencies = [
+    { name = "pytz" },
+    { name = "zope-interface" },
+]
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/datetime/6.0/datetime-6.0.tar.gz", hash = "sha256:c1514936d2f901e10c8e08d83bf04e6c9dbd7ca4f244da94fec980980a3bc4d5" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/datetime/6.0/datetime-6.0-py3-none-any.whl", hash = "sha256:d19988f0657a4e72c9438344157254a8dcad6aea8cd5ae70a5d1b5a75e5dc930" },
+]
+
+[[package]]
+name = "event-calander-extracter"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "bs4" },
+    { name = "datetime" },
+    { name = "icalendar" },
+    { name = "pandas" },
+    { name = "requests" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "bs4", specifier = ">=0.0.2" },
+    { name = "datetime", specifier = ">=6.0" },
+    { name = "icalendar", specifier = ">=6.3.2" },
+    { name = "pandas", specifier = ">=2.3.3" },
+    { name = "requests", specifier = ">=2.32.5" },
+]
+
+[[package]]
+name = "icalendar"
+version = "6.3.2"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+dependencies = [
+    { name = "python-dateutil" },
+    { name = "tzdata" },
+]
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/icalendar/6.3.2/icalendar-6.3.2.tar.gz", hash = "sha256:e0c10ecbfcebe958d33af7d491f6e6b7580d11d475f2eeb29532d0424f9110a1" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/icalendar/6.3.2/icalendar-6.3.2-py3-none-any.whl", hash = "sha256:d400e9c9bb8c025e5a3c77c236941bb690494be52528a0b43cc7e8b7c9505064" },
+]
+
+[[package]]
+name = "idna"
+version = "3.11"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/idna/3.11/idna-3.11.tar.gz", hash = "sha256:795dafcc9c04ed0c1fb032c2aa73654d8e8c5023a7df64a53f39190ada629902" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/idna/3.11/idna-3.11-py3-none-any.whl", hash = "sha256:771a87f49d9defaf64091e6e6fe9c18d4833f140bd19464795bc32d966ca37ea" },
+]
+
+[[package]]
+name = "numpy"
+version = "2.4.1"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1.tar.gz", hash = "sha256:a1ceafc5042451a858231588a104093474c6a5c57dcc724841f5c888d237d690" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-macosx_10_15_x86_64.whl", hash = "sha256:3869ea1ee1a1edc16c29bbe3a2f2a4e515cc3a44d43903ad41e0cacdbaf733dc" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-macosx_11_0_arm64.whl", hash = "sha256:e867df947d427cdd7a60e3e271729090b0f0df80f5f10ab7dd436f40811699c3" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-macosx_14_0_arm64.whl", hash = "sha256:e3bd2cb07841166420d2fa7146c96ce00cb3410664cbc1a6be028e456c4ee220" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-macosx_14_0_x86_64.whl", hash = "sha256:f0a90aba7d521e6954670550e561a4cb925713bd944445dbe9e729b71f6cabee" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:5d558123217a83b2d1ba316b986e9248a1ed1971ad495963d555ccd75dcb1556" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:2f44de05659b67d20499cbc96d49f2650769afcb398b79b324bb6e297bfe3844" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-musllinux_1_2_aarch64.whl", hash = "sha256:69e7419c9012c4aaf695109564e3387f1259f001b4326dfa55907b098af082d3" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-musllinux_1_2_x86_64.whl", hash = "sha256:2ffd257026eb1b34352e749d7cc1678b5eeec3e329ad8c9965a797e08ccba205" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-win32.whl", hash = "sha256:727c6c3275ddefa0dc078524a85e064c057b4f4e71ca5ca29a19163c607be745" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-win_amd64.whl", hash = "sha256:7d5d7999df434a038d75a748275cd6c0094b0ecdb0837342b332a82defc4dc4d" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314-win_arm64.whl", hash = "sha256:ce9ce141a505053b3c7bce3216071f3bf5c182b8b28930f14cd24d43932cd2df" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-macosx_11_0_arm64.whl", hash = "sha256:4e53170557d37ae404bf8d542ca5b7c629d6efa1117dac6a83e394142ea0a43f" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-macosx_14_0_arm64.whl", hash = "sha256:a73044b752f5d34d4232f25f18160a1cc418ea4507f5f11e299d8ac36875f8a0" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-macosx_14_0_x86_64.whl", hash = "sha256:fb1461c99de4d040666ca0444057b06541e5642f800b71c56e6ea92d6a853a0c" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:423797bdab2eeefbe608d7c1ec7b2b4fd3c58d51460f1ee26c7500a1d9c9ee93" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:52b5f61bdb323b566b528899cc7db2ba5d1015bda7ea811a8bcf3c89c331fa42" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-musllinux_1_2_aarch64.whl", hash = "sha256:42d7dd5fa36d16d52a84f821eb96031836fd405ee6955dd732f2023724d0aa01" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-musllinux_1_2_x86_64.whl", hash = "sha256:e7b6b5e28bbd47b7532698e5db2fe1db693d84b58c254e4389d99a27bb9b8f6b" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-win32.whl", hash = "sha256:5de60946f14ebe15e713a6f22850c2372fa72f4ff9a432ab44aa90edcadaa65a" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-win_amd64.whl", hash = "sha256:8f085da926c0d491ffff3096f91078cc97ea67e7e6b65e490bc8dcda65663be2" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/numpy/2.4.1/numpy-2.4.1-cp314-cp314t-win_arm64.whl", hash = "sha256:6436cffb4f2bf26c974344439439c95e152c9a527013f26b3577be6c2ca64295" },
+]
+
+[[package]]
+name = "pandas"
+version = "2.3.3"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+dependencies = [
+    { name = "numpy" },
+    { name = "python-dateutil" },
+    { name = "pytz" },
+    { name = "tzdata" },
+]
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3.tar.gz", hash = "sha256:e05e1af93b977f7eafa636d043f9f94c7ee3ac81af99c13508215942e64c993b" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-macosx_10_13_x86_64.whl", hash = "sha256:ee15f284898e7b246df8087fc82b87b01686f98ee67d85a17b7ab44143a3a9a0" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-macosx_11_0_arm64.whl", hash = "sha256:1611aedd912e1ff81ff41c745822980c49ce4a7907537be8692c8dbc31924593" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:6d2cefc361461662ac48810cb14365a365ce864afe85ef1f447ff5a1e99ea81c" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:ee67acbbf05014ea6c763beb097e03cd629961c8a632075eeb34247120abcb4b" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-musllinux_1_2_aarch64.whl", hash = "sha256:c46467899aaa4da076d5abc11084634e2d197e9460643dd455ac3db5856b24d6" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-musllinux_1_2_x86_64.whl", hash = "sha256:6253c72c6a1d990a410bc7de641d34053364ef8bcd3126f7e7450125887dffe3" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314-win_amd64.whl", hash = "sha256:1b07204a219b3b7350abaae088f451860223a52cfb8a6c53358e7948735158e5" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-macosx_10_13_x86_64.whl", hash = "sha256:2462b1a365b6109d275250baaae7b760fd25c726aaca0054649286bcfbb3e8ec" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-macosx_11_0_arm64.whl", hash = "sha256:0242fe9a49aa8b4d78a4fa03acb397a58833ef6199e9aa40a95f027bb3a1b6e7" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-manylinux_2_24_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:a21d830e78df0a515db2b3d2f5570610f5e6bd2e27749770e8bb7b524b89b450" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:2e3ebdb170b5ef78f19bfb71b0dc5dc58775032361fa188e814959b74d726dd5" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-musllinux_1_2_aarch64.whl", hash = "sha256:d051c0e065b94b7a3cea50eb1ec32e912cd96dba41647eb24104b6c6c14c5788" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pandas/2.3.3/pandas-2.3.3-cp314-cp314t-musllinux_1_2_x86_64.whl", hash = "sha256:3869faf4bd07b3b66a9f462417d0ca3a9df29a9f6abd5d0d0dbab15dac7abe87" },
+]
+
+[[package]]
+name = "python-dateutil"
+version = "2.9.0.post0"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+dependencies = [
+    { name = "six" },
+]
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/python-dateutil/2.9.0.post0/python-dateutil-2.9.0.post0.tar.gz", hash = "sha256:37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/python-dateutil/2.9.0.post0/python_dateutil-2.9.0.post0-py2.py3-none-any.whl", hash = "sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427" },
+]
+
+[[package]]
+name = "pytz"
+version = "2025.2"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pytz/2025.2/pytz-2025.2.tar.gz", hash = "sha256:360b9e3dbb49a209c21ad61809c7fb453643e048b38924c765813546746e81c3" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/pytz/2025.2/pytz-2025.2-py2.py3-none-any.whl", hash = "sha256:5ddf76296dd8c44c26eb8f4b6f35488f3ccbf6fbbd7adee0b7262d43f0ec2f00" },
+]
+
+[[package]]
+name = "requests"
+version = "2.32.5"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+dependencies = [
+    { name = "certifi" },
+    { name = "charset-normalizer" },
+    { name = "idna" },
+    { name = "urllib3" },
+]
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/requests/2.32.5/requests-2.32.5.tar.gz", hash = "sha256:dbba0bac56e100853db0ea71b82b4dfd5fe2bf6d3754a8893c3af500cec7d7cf" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/requests/2.32.5/requests-2.32.5-py3-none-any.whl", hash = "sha256:2462f94637a34fd532264295e186976db0f5d453d1cdd31473c85a6a161affb6" },
+]
+
+[[package]]
+name = "six"
+version = "1.17.0"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/six/1.17.0/six-1.17.0.tar.gz", hash = "sha256:ff70335d468e7eb6ec65b95b99d3a2836546063f63acc5171de367e834932a81" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/six/1.17.0/six-1.17.0-py2.py3-none-any.whl", hash = "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274" },
+]
+
+[[package]]
+name = "soupsieve"
+version = "2.8.2"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/soupsieve/2.8.2/soupsieve-2.8.2.tar.gz", hash = "sha256:78a66b0fdee2ab40b7199dc3e747ee6c6e231899feeaae0b9b98a353afd48fd8" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/soupsieve/2.8.2/soupsieve-2.8.2-py3-none-any.whl", hash = "sha256:0f4c2f6b5a5fb97a641cf69c0bd163670a0e45e6d6c01a2107f93a6a6f93c51a" },
+]
+
+[[package]]
+name = "typing-extensions"
+version = "4.15.0"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/typing-extensions/4.15.0/typing_extensions-4.15.0.tar.gz", hash = "sha256:0cea48d173cc12fa28ecabc3b837ea3cf6f38c6d1136f85cbaaf598984861466" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/typing-extensions/4.15.0/typing_extensions-4.15.0-py3-none-any.whl", hash = "sha256:f0fa19c6845758ab08074a0cfa8b7aecb71c999ca73d62883bc25cc018c4e548" },
+]
+
+[[package]]
+name = "tzdata"
+version = "2025.3"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/tzdata/2025.3/tzdata-2025.3.tar.gz", hash = "sha256:de39c2ca5dc7b0344f2eba86f49d614019d29f060fc4ebc8a417896a620b56a7" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/tzdata/2025.3/tzdata-2025.3-py2.py3-none-any.whl", hash = "sha256:06a47e5700f3081aab02b2e513160914ff0694bce9947d6b76ebd6bf57cfc5d1" },
+]
+
+[[package]]
+name = "urllib3"
+version = "2.6.3"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/urllib3/2.6.3/urllib3-2.6.3.tar.gz", hash = "sha256:1b62b6884944a57dbe321509ab94fd4d3b307075e0c2eae991ac71ee15ad38ed" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/urllib3/2.6.3/urllib3-2.6.3-py3-none-any.whl", hash = "sha256:bf272323e553dfb2e87d9bfd225ca7b0f467b919d7bbd355436d3fd37cb0acd4" },
+]
+
+[[package]]
+name = "zope-interface"
+version = "8.2"
+source = { registry = "https://nexus.bmwgroup.net/repository/pypi/simple" }
+sdist = { url = "https://nexus.bmwgroup.net/repository/pypi/packages/zope-interface/8.2/zope_interface-8.2.tar.gz", hash = "sha256:afb20c371a601d261b4f6edb53c3c418c249db1a9717b0baafc9a9bb39ba1224" }
+wheels = [
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/zope-interface/8.2/zope_interface-8.2-cp314-cp314-macosx_10_9_x86_64.whl", hash = "sha256:46c7e4e8cbc698398a67e56ca985d19cb92365b4aafbeb6a712e8c101090f4cb" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/zope-interface/8.2/zope_interface-8.2-cp314-cp314-macosx_11_0_arm64.whl", hash = "sha256:a87fc7517f825a97ff4a4ca4c8a950593c59e0f8e7bfe1b6f898a38d5ba9f9cf" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/zope-interface/8.2/zope_interface-8.2-cp314-cp314-manylinux1_i686.manylinux2014_i686.manylinux_2_17_i686.manylinux_2_5_i686.whl", hash = "sha256:ccf52f7d44d669203c2096c1a0c2c15d52e36b2e7a9413df50f48392c7d4d080" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/zope-interface/8.2/zope_interface-8.2-cp314-cp314-manylinux1_x86_64.manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_5_x86_64.whl", hash = "sha256:aae807efc7bd26302eb2fea05cd6de7d59269ed6ae23a6de1ee47add6de99b8c" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/zope-interface/8.2/zope_interface-8.2-cp314-cp314-manylinux2014_aarch64.manylinux_2_17_aarch64.whl", hash = "sha256:05a0e42d6d830f547e114de2e7cd15750dc6c0c78f8138e6c5035e51ddfff37c" },
+    { url = "https://nexus.bmwgroup.net/repository/pypi/packages/zope-interface/8.2/zope_interface-8.2-cp314-cp314-win_amd64.whl", hash = "sha256:561ce42390bee90bae51cf1c012902a8033b2aaefbd0deed81e877562a116d48" },
+]
