@@ -1,15 +1,6 @@
 # Event Calendar Extractor
 
-A Python tool to scrape and extract event information from the Aiterhofen community website and save it to CSV format.
-
-## Features
-
-- Scrapes events from https://www.aiterhofen.de/veranstaltungen/
-- Handles pagination to fetch all available events
-- Extracts event details: date, time, title, URL, and location
-- Saves events to CSV file (`events_aiterhofen.csv`)
-- Avoids duplicates when updating the CSV
-
+A Python tool to scrape and extract event information from the Gemeinde Aiterhofen website and create a iCalander File from it
 
 ## Development Setup
 
@@ -31,6 +22,6 @@ uv sync
 
 ### How to add to calander application
 
-1. get the raw link of the ical-file served on github
+1. get the [raw link](https://raw.githubusercontent.com/Praschinator/event_calander_extracter/refs/heads/main/all_events.ics) of the ical-file served on github
 2. add to your calendar application as a subscribed calendar using the raw link
 
