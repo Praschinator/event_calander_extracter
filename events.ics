@@ -1,4 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Event Calendar Extractor//aiterhofen.de//
+BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+UID:Gemeinderatssitzung-2026-01-27
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-59/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sitzung der Verwaltungsgemeinschaft Aiterhofen
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+UID:Sitzung der Verwaltungsgemeinschaft Aiterhofen-2026-01-29
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/sitzung-der-verwaltungsgemei
+ nschaft-aiterhofen/
+END:VEVENT
 END:VCALENDAR

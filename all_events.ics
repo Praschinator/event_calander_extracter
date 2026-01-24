@@ -31,6 +31,25 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/neujahrsempfang-der-pfarrei/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+UID:Gemeinderatssitzung-2026-01-27
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-59/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sitzung der Verwaltungsgemeinschaft Aiterhofen
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+UID:Sitzung der Verwaltungsgemeinschaft Aiterhofen-2026-01-29
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/sitzung-der-verwaltungsgemei
+ nschaft-aiterhofen/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bauernhilfsverein - Bauernjahrtag intern
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
