@@ -142,7 +142,7 @@ def get_new_events(df_events, df_original):
     if df_original.empty:
         df_diff = df_events
     else:
-        df_diff = df_events[~df_events["url"].isin(df_original["url"])]
+        df_diff = df_events[~df_events[["date", "url"]].isin(df_original[["date", "url"]]).all(axis=1)]
 
     return df_diff
 
