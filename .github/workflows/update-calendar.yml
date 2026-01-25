@@ -22,7 +22,7 @@ jobs:
         run: uv sync
       
       - name: Fetch events from website
-        run: uv run main.py
+        run: uv run create_csv.py
       
       - name: Generate full calendar file
         run: uv run create_full_calander.py
