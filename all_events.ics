@@ -31,20 +31,12 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/neujahrsempfang-der-pfarrei/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neujahrsempfang der Pfarrei
-DTSTART;VALUE=DATE:20260124
-DTEND;VALUE=DATE:20260125
-UID:Neujahrsempfang der Pfarrei-2026-01-24
-LOCATION:Pfarrheim Aiterhofen
-TRANSP:TRANSPARENT
-URL:https://www.aiterhofen.de/veranstaltungen/neujahrsempfang-der-pfarrei/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gemeinderatssitzung
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
 UID:Gemeinderatssitzung-2026-01-27
-LOCATION:No Location
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-59/
 END:VEVENT
@@ -53,7 +45,8 @@ SUMMARY:Gemeinderatssitzung
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
 UID:Gemeinderatssitzung-2026-01-27
-LOCATION:No Location
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-59/
 END:VEVENT
@@ -62,7 +55,8 @@ SUMMARY:Sitzung der Verwaltungsgemeinschaft Aiterhofen
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 UID:Sitzung der Verwaltungsgemeinschaft Aiterhofen-2026-01-29
-LOCATION:No Location
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/sitzung-der-verwaltungsgemei
  nschaft-aiterhofen/
@@ -72,7 +66,8 @@ SUMMARY:Sitzung der Verwaltungsgemeinschaft Aiterhofen
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 UID:Sitzung der Verwaltungsgemeinschaft Aiterhofen-2026-01-29
-LOCATION:No Location
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/sitzung-der-verwaltungsgemei
  nschaft-aiterhofen/
@@ -152,7 +147,17 @@ SUMMARY:CSU Aiterhofen - Infoveranstaltung Kommunalwahl
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-05
-LOCATION:No Location
+LOCATION:Gasthaus Bergbauer\, Donaustraße 2\, Aiterhofen/Sand\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
+ tung-kommunalwahl-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSU Aiterhofen - Infoveranstaltung Kommunalwahl
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-05
+LOCATION:Gasthaus Bergbauer\, Donaustraße 2\, Aiterhofen/Sand\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
  tung-kommunalwahl-2/
@@ -208,7 +213,17 @@ SUMMARY:CSU Aiterhofen - politischer Frühschoppen zur Kommunalwahl
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260209
 UID:CSU Aiterhofen - politischer Frühschoppen zur Kommunalwahl-2026-02-08
-LOCATION:No Location
+LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-politischer-f
+ ruehschoppen-zur-kommunalwahl/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSU Aiterhofen - politischer Frühschoppen zur Kommunalwahl
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+UID:CSU Aiterhofen - politischer Frühschoppen zur Kommunalwahl-2026-02-08
+LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-politischer-f
  ruehschoppen-zur-kommunalwahl/
@@ -219,6 +234,26 @@ DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-11
 LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
+ tung-kommunalwahl-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSU Aiterhofen - Infoveranstaltung Kommunalwahl
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-11
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
+ tung-kommunalwahl-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSU Aiterhofen - Infoveranstaltung Kommunalwahl
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+UID:CSU Aiterhofen - Infoveranstaltung Kommunalwahl-2026-02-11
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-aiterhofen-infoveranstal
  tung-kommunalwahl-3/
@@ -263,7 +298,20 @@ DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260222
 UID:CSU Ortsverband Aiterhofen - Starkbierfest mit Klaus Holetschek\, Vors
  itzender CSU-Fraktion und Gstanzlsänger Andi Aichinger-2026-02-21
-LOCATION:No Location
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/csu-ortsverband-aiterhofen-s
+ tarkbierfest-mit-klaus-holetschek-vorsitzender-csu-fraktion-und-gstanzlsae
+ nger-andi-aichinger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSU Ortsverband Aiterhofen - Starkbierfest mit Klaus Holetschek\, 
+ Vorsitzender CSU-Fraktion und Gstanzlsänger Andi Aichinger
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+UID:CSU Ortsverband Aiterhofen - Starkbierfest mit Klaus Holetschek\, Vors
+ itzender CSU-Fraktion und Gstanzlsänger Andi Aichinger-2026-02-21
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/csu-ortsverband-aiterhofen-s
  tarkbierfest-mit-klaus-holetschek-vorsitzender-csu-fraktion-und-gstanzlsae
@@ -314,7 +362,17 @@ SUMMARY:Basarteam Aiterhofen - Frühjahr-Sommer- Basar
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260308
 UID:Basarteam Aiterhofen - Frühjahr-Sommer- Basar-2026-03-07
-LOCATION:No Location
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-fruehja
+ hr-sommer-basar-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basarteam Aiterhofen - Frühjahr-Sommer- Basar
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+UID:Basarteam Aiterhofen - Frühjahr-Sommer- Basar-2026-03-07
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-fruehja
  hr-sommer-basar-2/
@@ -344,7 +402,17 @@ SUMMARY:FFW Geltolfing – Jahreshauptversammlung
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
 UID:FFW Geltolfing – Jahreshauptversammlung-2026-03-28
-LOCATION:No Location
+LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ffw-geltolfing-jahreshauptve
+ rsammlung-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FFW Geltolfing – Jahreshauptversammlung
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+UID:FFW Geltolfing – Jahreshauptversammlung-2026-03-28
+LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-geltolfing-jahreshauptve
  rsammlung-3/
@@ -678,7 +746,17 @@ SUMMARY:Basarteam Aiterhofen - Herbst-Winter-Basar
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 UID:Basarteam Aiterhofen - Herbst-Winter-Basar-2026-10-10
-LOCATION:No Location
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-herbst-
+ winter-basar-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basarteam Aiterhofen - Herbst-Winter-Basar
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+UID:Basarteam Aiterhofen - Herbst-Winter-Basar-2026-10-10
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-herbst-
  winter-basar-3/

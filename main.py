@@ -7,6 +7,37 @@ import os
 import icalendar
 
 
+def fetch_event_location_from_detail_page(
+    url: str, session: requests.Session
+) -> str | None:
+    """Fetch location from event detail page's Veranstaltungsort section."""
+    try:
+        resp = session.get(url, timeout=15)
+        if resp.status_code != 200:
+            return None
+        soup = BeautifulSoup(resp.content, "html.parser")
+        # Look for the "Veranstaltungsort" section
+        headings = soup.find_all(["h3", "h4"])
+        for heading in headings:
+            if heading.get_text(strip=True) == "Veranstaltungsort":
+                # Get parent div's full text and extract location
+                parent = heading.parent
+                if parent:
+                    full_text = parent.get_text("|", strip=True)
+                    # Split by | and remove the heading, Deutschland, and empty parts
+                    parts = [
+                        p.strip()
+                        for p in full_text.split("|")
+                        if p.strip()
+                        and p.strip() not in ["Veranstaltungsort", "Deutschland", ","]
+                    ]
+                    if parts:
+                        return ", ".join(parts)
+        return None
+    except Exception:
+        return None
+
+
 def fetch_events():
     base_url = "https://www.aiterhofen.de/veranstaltungen/"
     session = requests.Session()
@@ -101,14 +132,22 @@ def fetch_events():
                 )
                 event_date, event_time = parse_date(date_text, year)
 
+                event_url = (
+                    title_el["href"] if title_el and title_el.has_attr("href") else None
+                )
+
+                # If no location found in listing, try fetching from detail page
+                if not location_text and event_url:
+                    location_text = fetch_event_location_from_detail_page(
+                        event_url, session
+                    )
+
                 events.append(
                     {
                         "date": event_date,
                         "time": event_time,
                         "title": title_el.get_text(strip=True) if title_el else None,
-                        "url": title_el["href"]
-                        if title_el and title_el.has_attr("href")
-                        else None,
+                        "url": event_url,
                         "location": location_text,
                         "month_label": month_label,
                         "raw_date_text": date_text,
