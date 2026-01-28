@@ -183,6 +183,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/fischereiverein-jahreshauptv
  ersammlung-intern/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FFW Niederharthausen - Jahreshauptversammlung
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+UID:FFW Niederharthausen - Jahreshauptversammlung-2026-03-22
+LOCATION:Feuerwehrhaus Niederharthausen
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ffw-niederharthausen-jahresh
+ auptversammlung/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FFW Geltolfing – Jahreshauptversammlung
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
@@ -213,6 +223,16 @@ LOCATION:No Location
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-geltolfing-sonnwendfeier
  -mit-festzeltbetrieb-am-sportplatz-geltolfing/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FFW Niederharthausen - Sonnwendfeuer Niederharthausen
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+UID:FFW Niederharthausen - Sonnwendfeuer Niederharthausen-2026-06-27
+LOCATION:Fußballplatz Niederharthausen
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ffw-niederharthausen-sonnwen
+ dfeuer-niederharthausen/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OGV Aiterhofen - Sommerfest
