@@ -6,7 +6,7 @@ A Python tool to scrape and extract event information from the Gemeinde Aiterhof
 
 ### Requirements
 
-- `[uv](https://github.com/astral-sh/uv)` installed
+- [`uv`](https://github.com/astral-sh/uv) installed
 
 ### Installation
 
