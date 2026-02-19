@@ -17,8 +17,8 @@ uv sync
 
 ### Explaination
 
-`uv run create_csv.py` - runs the script to scrape and save events.
-`uv run create_full_calendar` - creates a full calendar ical-file, that can be imported into calendar applications.
+- `uv run create_csv.py` - runs the script to scrape and save events.
+- `uv run create_full_calendar` - creates a full calendar ical-file, that can be imported into calendar applications.
 
 ## How to add to calander application
 
