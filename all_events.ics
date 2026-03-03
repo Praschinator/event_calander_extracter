@@ -203,6 +203,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/ffw-geltolfing-jahreshauptve
  rsammlung-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fischereiverein - Jahreshauptversammlung intern
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+UID:Fischereiverein - Jahreshauptversammlung intern-2026-03-28
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/fischereiverein-jahreshauptv
+ ersammlung-intern/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Landjugend - Lebendkickerturnier
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
