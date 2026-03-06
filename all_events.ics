@@ -419,4 +419,14 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-amselfing-weihnachtsfeie
  r-3/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schützenverein Gemütlichkeit Geltolfing - Kappenabend
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+UID:Schützenverein Gemütlichkeit Geltolfing - Kappenabend-2027-02-06
+LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/schuetzenverein-gemuetlichke
+ it-geltolfing-kappenabend-2/
+END:VEVENT
 END:VCALENDAR
