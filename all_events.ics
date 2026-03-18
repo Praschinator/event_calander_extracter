@@ -429,6 +429,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/ffw-amselfing-weihnachtsfeie
  r-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KSK Geltolfing - Weihnachtsfeier
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+UID:KSK Geltolfing - Weihnachtsfeier-2026-12-12
+LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ksk-geltolfing-weihnachtsfei
+ er-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Schützenverein Gemütlichkeit Geltolfing - Kappenabend
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
