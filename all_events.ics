@@ -399,6 +399,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-herbst-
  winter-basar-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Basarteam Aiterhofen - Herbst-Winter-Basar
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:Basarteam Aiterhofen - Herbst-Winter-Basar-2026-10-17
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-herbst-
+ winter-basar-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OGV Aiterhofen - Adventszauber
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
