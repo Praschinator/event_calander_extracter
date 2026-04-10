@@ -458,4 +458,16 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/schuetzenverein-gemuetlichke
  it-geltolfing-kappenabend-2/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starkbierfest CSU Aiterhofen mit Landwirtschaftsministerin Michael
+ a Kaniber
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+UID:Starkbierfest CSU Aiterhofen mit Landwirtschaftsministerin Michaela Ka
+ niber-2027-02-27
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/starkbierfest-csu-aiterhofen
+ -mit-landwirtschaftsministerin-michaela-kaniber/
+END:VEVENT
 END:VCALENDAR
