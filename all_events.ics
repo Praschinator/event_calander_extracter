@@ -232,6 +232,33 @@ URL:https://www.aiterhofen.de/veranstaltungen/landjugend-lebendkickerturni
  er/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EC Ebra - Eisstockturnier
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+UID:EC Ebra - Eisstockturnier-2026-05-13
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ec-ebra-eisstockturnier/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EC Ebra - Eisstockturnier
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+UID:EC Ebra - Eisstockturnier-2026-05-15
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ec-ebra-eisstockturnier-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EC Ebra - Eisstockturnier
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+UID:EC Ebra - Eisstockturnier-2026-05-16
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ec-ebra-eisstockturnier-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FFW Geltolfing – Sonnwendfeier mit Festzeltbetrieb am Sportplatz
   Geltolfing
 DTSTART;VALUE=DATE:20260620
