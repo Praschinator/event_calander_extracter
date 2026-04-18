@@ -222,6 +222,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/fischereiverein-jahreshauptv
  ersammlung-intern/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+UID:Gemeinderatssitzung-2026-04-21
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-61/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Landjugend - Lebendkickerturnier
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
