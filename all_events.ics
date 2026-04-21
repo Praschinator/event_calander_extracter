@@ -242,6 +242,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/landjugend-lebendkickerturni
  er/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Schützenverein Gemütlichkeit Geltolfing - Königsfeier
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+UID:Schützenverein Gemütlichkeit Geltolfing - Königsfeier-2026-05-09
+LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/schuetzenverein-gemuetlichke
+ it-geltolfing-koenigsfeier/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EC Ebra - Eisstockturnier
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
