@@ -232,6 +232,17 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-61/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EC Niederharthausen - Maibaumaufstellen
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+UID:EC Niederharthausen - Maibaumaufstellen-2026-04-30
+LOCATION:Dorfmitte Niederharthausen\, Niederharthausen\, 94330 Aiterhofen\
+ ,
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ec-niederharthausen-maibauma
+ ufstellen/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Landjugend - Lebendkickerturnier
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
