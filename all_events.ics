@@ -263,6 +263,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/schuetzenverein-gemuetlichke
  it-geltolfing-koenigsfeier/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+UID:Gemeinderatssitzung-2026-05-12
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-62/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EC Ebra - Eisstockturnier
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
