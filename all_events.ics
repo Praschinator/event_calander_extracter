@@ -300,6 +300,16 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ec-ebra-eisstockturnier-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+UID:Gemeinderatssitzung-2026-06-08
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-63/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FFW Geltolfing – Sonnwendfeier mit Festzeltbetrieb am Sportplatz
   Geltolfing
 DTSTART;VALUE=DATE:20260620
