@@ -332,6 +332,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/ffw-niederharthausen-sonnwen
  dfeuer-niederharthausen/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+UID:Gemeinderatssitzung-2026-06-30
+LOCATION:Sitzungssaal der Rathauses\, Straubinger Str. 4\, 94330 Aiterhofe
+ n\,
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-64/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OGV Aiterhofen - Sommerfest
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
