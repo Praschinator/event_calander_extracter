@@ -438,6 +438,26 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ffw-amselfing-grillfest-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-09
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-11
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dormeisterschaft Eisstock - EC Ebra
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
@@ -446,6 +466,36 @@ LOCATION:No Location
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/dormeisterschaft-eisstock-ec
  -ebra/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-13
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-16
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-9/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-18
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-10/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eventteam - Busfahrt Dorfauszeit
@@ -458,6 +508,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/eventteam-busfahrt-dorfausze
  it/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-19
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-5/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eventteam - Busfahrt Dorfauszeit
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
@@ -466,6 +526,56 @@ LOCATION:No Location
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-busfahrt-dorfausze
  it-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-20
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-6/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-23
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-11/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-25
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-12/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-26
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-7/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-27
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-8/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Aiterhofen - Weinfest
@@ -485,6 +595,18 @@ LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-herbst-
  winter-basar-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preisverleihung Jubiläumsschießen 60 Jahre Jungschützenverein A
+ iterhofen
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+UID:Preisverleihung Jubiläumsschießen 60 Jahre Jungschützenverein Aiter
+ hofen-2026-10-10
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/preisverleihung-jubilaeumssc
+ hiessen-60-jahre-jungschuetzenverein-aiterhofen/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Basarteam Aiterhofen - Herbst-Winter-Basar
