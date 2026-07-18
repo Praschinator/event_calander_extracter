@@ -469,6 +469,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/dormeisterschaft-eisstock-ec
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-12
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
+ -jungschuetzenverein-aiterhofen-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 UID:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen-2026-09-13
