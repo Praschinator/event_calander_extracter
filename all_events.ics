@@ -420,6 +420,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/tennisfreunde-aiterhofen-50-
  jahr-feier-4/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+UID:Gemeinderatssitzung-2026-07-28
+LOCATION:Sitzungssaal des Rathauses\, Straubinger Straße 4\, 94330 Aiterh
+ ofen \,
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-65/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fischereiverein - Fischerfest
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
