@@ -710,4 +710,22 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/starkbierfest-csu-aiterhofen
  -mit-landwirtschaftsministerin-michaela-kaniber/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Aiterhofen - Sunset Party
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+UID:FC Aiterhofen - Sunset Party-2027-07-16
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-sunset-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Aiterhofen - Kinderturnier
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+UID:FC Aiterhofen - Kinderturnier-2027-07-17
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-kinderturnier/
+END:VEVENT
 END:VCALENDAR
