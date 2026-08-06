@@ -478,6 +478,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/dormeisterschaft-eisstock-ec
  -ebra/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dorfmeisterschaft Eisstock - EC Ebra
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:Dorfmeisterschaft Eisstock - EC Ebra-2026-09-12
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/dormeisterschaft-eisstock-ec
+ -ebra/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
@@ -647,6 +657,15 @@ LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-aiterhofen-3-aiter
  hofener-watt-turnier/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bürgerversammlung
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+UID:Bürgerversammlung-2026-11-19
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/buergerversammlung-4/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OGV Aiterhofen - Adventszauber
