@@ -668,6 +668,16 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/buergerversammlung-4/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eventteam Aiterhofen - 3. Aiterhofener Watt-Turnier
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+UID:Eventteam Aiterhofen - 3. Aiterhofener Watt-Turnier-2026-11-20
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/eventteam-aiterhofen-3-aiter
+ hofener-watt-turnier/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OGV Aiterhofen - Adventszauber
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
