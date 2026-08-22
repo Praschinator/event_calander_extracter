@@ -649,6 +649,46 @@ URL:https://www.aiterhofen.de/veranstaltungen/basarteam-aiterhofen-herbst-
  winter-basar-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aitrachtaler Theatergruppe - Aufführung
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+UID:Aitrachtaler Theatergruppe - Aufführung-2026-10-23
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
+ uffuehrung/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aitrachtaler Theatergruppe - Aufführung
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+UID:Aitrachtaler Theatergruppe - Aufführung-2026-10-24
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
+ uffuehrung-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aitrachtaler Theatergruppe - Aufführung
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+UID:Aitrachtaler Theatergruppe - Aufführung-2026-10-25
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
+ uffuehrung-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aitrachtaler Theatergruppe - Aufführung
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+UID:Aitrachtaler Theatergruppe - Aufführung-2026-11-06
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
+ uffuehrung-4/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eventteam Aiterhofen - 3. Aiterhofener Watt-Turnier
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -657,6 +697,26 @@ LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-aiterhofen-3-aiter
  hofener-watt-turnier/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aitrachtaler Theatergruppe - Aufführung
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:Aitrachtaler Theatergruppe - Aufführung-2026-11-07
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
+ uffuehrung-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aitrachtaler Theatergruppe - Aufführung
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+UID:Aitrachtaler Theatergruppe - Aufführung-2026-11-08
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
+ uffuehrung-6/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bürgerversammlung
