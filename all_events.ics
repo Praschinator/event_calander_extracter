@@ -508,6 +508,16 @@ URL:https://www.aiterhofen.de/veranstaltungen/jubilaeumsschiessen-60-jahre
  -jungschuetzenverein-aiterhofen-4/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+UID:Gemeinderatssitzung-2026-09-15
+LOCATION:Sitzungssaal der Rathauses\, Straubinger Str. 4\, 94330 Aiterhofe
+ n\,
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-66/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jubiläumsschießen 60 Jahre Jungschützenverein Aiterhofen
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
