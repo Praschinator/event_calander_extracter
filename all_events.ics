@@ -689,6 +689,15 @@ URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
  uffuehrung-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bürgerversammlung
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+UID:Bürgerversammlung-2026-11-05
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/buergerversammlung-4/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aitrachtaler Theatergruppe - Aufführung
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
