@@ -787,6 +787,18 @@ URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-weihnachtsfeie
  r/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OGV Aiterhofen - Ausflug nach Abensberg zur Kuchlbauers Turmweihna
+ cht
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+UID:OGV Aiterhofen - Ausflug nach Abensberg zur Kuchlbauers Turmweihnacht-
+ 2026-12-05
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ogv-aiterhofen-ausflug-nach-
+ abensberg-zur-kuchlbauers-turmweihnacht/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FFW Amselfing - Weihnachtsfeier
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
@@ -838,6 +850,25 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-sunset-party/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FC Aiterhofen - Gemeindemeisterschaft Fußballkleinfeld
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+UID:FC Aiterhofen - Gemeindemeisterschaft Fußballkleinfeld-2027-07-16
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-gemeindemeiste
+ rschaft-fussballkleinfeld/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Aiterhofen - Sunsetparty
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+UID:FC Aiterhofen - Sunsetparty-2027-07-16
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-sunsetparty/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FC Aiterhofen - Kinderturnier
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
@@ -845,5 +876,15 @@ UID:FC Aiterhofen - Kinderturnier-2027-07-17
 LOCATION:No Location
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-kinderturnier/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Aiterhofen - 6. Gäuboden-Kleinfeld-Cup
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+UID:FC Aiterhofen - 6. Gäuboden-Kleinfeld-Cup-2027-07-17
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-6-gaeuboden-kl
+ einfeld-cup/
 END:VEVENT
 END:VCALENDAR
