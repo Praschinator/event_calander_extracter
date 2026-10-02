@@ -637,6 +637,18 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-weinfest/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Preisverleihung Jubiläumsschießen 60 Jahre Jungschützenverein A
+ iterhofen
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+UID:Preisverleihung Jubiläumsschießen 60 Jahre Jungschützenverein Aiter
+ hofen-2026-10-09
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/preisverleihung-jubilaeumssc
+ hiessen-60-jahre-jungschuetzenverein-aiterhofen/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Basarteam Aiterhofen - Herbst-Winter-Basar
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
@@ -817,6 +829,16 @@ LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/ksk-geltolfing-weihnachtsfei
  er-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FFW Aiterhofen - Feuerwehrball
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+UID:FFW Aiterhofen - Feuerwehrball-2027-01-16
+LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/ffw-aiterhofen-feuerwehrball
+ -2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schützenverein Gemütlichkeit Geltolfing - Kappenabend
