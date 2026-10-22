@@ -711,6 +711,15 @@ URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
  uffuehrung-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gemeinderatssitzung
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+UID:Gemeinderatssitzung-2026-10-26
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/gemeinderatssitzung-68/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bürgerversammlung
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
