@@ -769,25 +769,6 @@ URL:https://www.aiterhofen.de/veranstaltungen/aitrachtaler-theatergruppe-a
  uffuehrung-6/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bürgerversammlung
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-UID:Bürgerversammlung-2026-11-19
-LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
-TRANSP:TRANSPARENT
-URL:https://www.aiterhofen.de/veranstaltungen/buergerversammlung-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eventteam Aiterhofen - 3. Aiterhofener Watt-Turnier
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-UID:Eventteam Aiterhofen - 3. Aiterhofener Watt-Turnier-2026-11-20
-LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
-TRANSP:TRANSPARENT
-URL:https://www.aiterhofen.de/veranstaltungen/eventteam-aiterhofen-3-aiter
- hofener-watt-turnier/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eventteam Aiterhofen - 4. Aiterhofener Watt-Turnier
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
