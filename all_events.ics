@@ -799,6 +799,17 @@ URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-weihnachtsfeie
  r/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weihnachtsfeier FFW Niederharthausen
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+UID:Weihnachtsfeier FFW Niederharthausen-2026-11-28
+LOCATION:Feuerwehrhaus Niederharthausen\, Niederharthausen 7\, Aiterhofen\
+ , 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/weihnachtsfeier-ffw-niederha
+ rthausen/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OGV Aiterhofen - Ausflug nach Abensberg zur Kuchlbauers Turmweihna
  cht
 DTSTART;VALUE=DATE:20261205
@@ -841,6 +852,28 @@ URL:https://www.aiterhofen.de/veranstaltungen/ffw-aiterhofen-feuerwehrball
  -2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pfarrei Aiterhofen - Neujahrsempfang im Pfarrheim Aiterhofen
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+UID:Pfarrei Aiterhofen - Neujahrsempfang im Pfarrheim Aiterhofen-2027-01-2
+ 3
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/pfarrei-aiterhofen-neujahrse
+ mpfang-im-pfarrheim-aiterhofen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kappenabend FFW Niederharthausen
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+UID:Kappenabend FFW Niederharthausen-2027-01-30
+LOCATION:Feuerwehrhaus Niederharthausen\, Niederharthausen 7\, Aiterhofen\
+ , 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/kappenabend-ffw-niederhartha
+ usen/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Schützenverein Gemütlichkeit Geltolfing - Kappenabend
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
@@ -861,6 +894,16 @@ LOCATION:Gasthaus Karpfinger\, Untere Dorfstr. 21\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/starkbierfest-csu-aiterhofen
  -mit-landwirtschaftsministerin-michaela-kaniber/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maibaum Aufstellen FFW Niederharthausen
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+UID:Maibaum Aufstellen FFW Niederharthausen-2027-04-30
+LOCATION:Maibaumplatz Niederharthausen
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/maibaum-aufstellen-ffw-niede
+ rharthausen/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FC Aiterhofen - Sunset Party
