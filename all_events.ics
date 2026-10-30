@@ -952,4 +952,13 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/fc-aiterhofen-6-gaeuboden-kl
  einfeld-cup/
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yesterday’s Woodstock
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+UID:Yesterday’s Woodstock-2027-10-09
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/yesterdays-woodstock/
+END:VEVENT
 END:VCALENDAR
