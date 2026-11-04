@@ -842,6 +842,15 @@ URL:https://www.aiterhofen.de/veranstaltungen/ksk-geltolfing-weihnachtsfei
  er-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eventteam - Dorfweihnacht
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+UID:Eventteam - Dorfweihnacht-2027-01-05
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/eventteam-dorfweihnacht-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FFW Aiterhofen - Feuerwehrball
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
@@ -863,6 +872,15 @@ URL:https://www.aiterhofen.de/veranstaltungen/pfarrei-aiterhofen-neujahrse
  mpfang-im-pfarrheim-aiterhofen/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eventteam - Kinderfasching
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+UID:Eventteam - Kinderfasching-2027-01-24
+LOCATION:Mehrzweckhalle Aiterhofen\, Schulgasse 2\, Aiterhofen\, 94330
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/eventteam-kinderfasching/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kappenabend FFW Niederharthausen
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
@@ -874,6 +892,15 @@ URL:https://www.aiterhofen.de/veranstaltungen/kappenabend-ffw-niederhartha
  usen/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eventteam - Faschingsparty
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+UID:Eventteam - Faschingsparty-2027-02-05
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/eventteam-faschingsparty/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Schützenverein Gemütlichkeit Geltolfing - Kappenabend
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
@@ -882,6 +909,15 @@ LOCATION:Bürgerhaus Geltolfing\, Kirchweg 15\, Aiterhofen\, 94330
 TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/schuetzenverein-gemuetlichke
  it-geltolfing-kappenabend-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eventteam - Skifahrt
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+UID:Eventteam - Skifahrt-2027-02-13
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/eventteam-skifahrt/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Starkbierfest CSU Aiterhofen mit Landwirtschaftsministerin Michael
