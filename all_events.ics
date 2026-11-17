@@ -881,6 +881,16 @@ TRANSP:TRANSPARENT
 URL:https://www.aiterhofen.de/veranstaltungen/eventteam-kinderfasching/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bauernhilfsverein Aiterhofen - Bauernjahrtag
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+UID:Bauernhilfsverein Aiterhofen - Bauernjahrtag-2027-01-30
+LOCATION:No Location
+TRANSP:TRANSPARENT
+URL:https://www.aiterhofen.de/veranstaltungen/bauernhilfsverein-aiterhofen
+ -bauernjahrtag/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kappenabend FFW Niederharthausen
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
